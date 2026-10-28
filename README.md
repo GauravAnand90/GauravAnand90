@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Gaurav Anand 👋
 
-<!--
-**GauravAnand90/GauravAnand90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site Reliability Engineer | Platform Engineer | DevOps Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced SRE and Platform Engineer with expertise in AWS, Kubernetes, Terraform, CI/CD, Observability, and Infrastructure Automation.
+
+## Core Skills
+
+- AWS
+- Kubernetes
+- Terraform
+- Docker
+- GitHub Actions
+- Prometheus
+- Grafana
+- Databricks
+- Airflow
+- Platform Engineering
+- Observability
+
+## Featured Projects
+
+### 🔍 Observability Platform
+Production-grade monitoring stack using Prometheus, Grafana, and AlertManager.
+
+Repository:
+- observability-platform
+
+### 🚀 Upcoming Projects
+
+- Terraform AWS Platform
+- GitHub Actions CI/CD
+- SRE Runbooks
+- Kubernetes Platform Engineering
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/gaurav-anand-92767312a/
