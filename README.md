@@ -1,150 +1,118 @@
 # Hi, I'm Gaurav Anand 👋
 
-## 🚀 SRE | Platform Engineer | Cloud & DevOps Engineer
+## 🚀 SRE | Platform Engineer | DevOps Engineer
 
-Experienced Platform Engineer focused on building reliable, scalable, and automated infrastructure. Passionate about Kubernetes, Cloud Infrastructure, Observability, Automation, and Site Reliability Engineering.
+Experienced Site Reliability and Platform Engineer with 5+ years of experience designing, automating, and operating cloud-native infrastructure on AWS and Kubernetes. Passionate about Infrastructure as Code, GitOps, Internal Developer Platforms (IDP), Observability, and AI-powered Operations.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Core Skills
 
 ### Cloud & Infrastructure
 - AWS
 - Terraform
-- Linux
-- Infrastructure as Code (IaC)
-
-### Containers & Orchestration
-- Kubernetes
+- Kubernetes (EKS)
 - Docker
+- Linux Administration
+
+### DevOps & Automation
+- GitHub Actions
+- Jenkins
+- ArgoCD
 - Helm
+- Python
+- Go (Golang)
 
 ### Observability & Monitoring
 - Prometheus
 - Grafana
 - AlertManager
 - Splunk
-
-### CI/CD & Automation
-- GitHub Actions
-- Jenkins
-- Bash
-- Python
+- Logging & Alerting
 
 ### Platform Engineering
-- Kubernetes Platform Management
-- Developer Enablement
-- Self-Service Infrastructure
-- Internal Developer Platform (IDP) Concepts
-- Backstage (Learning)
-
-### Data & Integration
-- Databricks
-- PySpark
-- IBM Sterling Connect:Direct
-- Autosys
-
----
-
-# 📂 Featured Projects
-
-## 🔍 Observability Platform
-
-Production-grade monitoring stack using Prometheus, Grafana, and AlertManager.
-
-### Features
-- Metrics collection with Prometheus
-- Grafana dashboards
-- AlertManager integration
-- Architecture documentation
-- Production-style monitoring setup
-
-**Repository**
-- observability-platform
-
----
-
-## ☸️ Kubernetes Platform
-
-Production-style Kubernetes platform demonstrating enterprise deployment patterns.
-
-### Features
-- Deployments
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-- Horizontal Pod Autoscaler (HPA)
-- Namespace Management
-- Helm Charts
-
-**Repository**
-- kubernetes-platform
-
----
-
-## ☁️ Terraform AWS Platform
-
-Infrastructure as Code project built with Terraform and AWS.
-
-### Features
-- VPC Provisioning
-- EC2 Deployment
-- Security Groups
-- IAM Configuration
-- Terraform Modules
-- Reusable Infrastructure Components
-
-**Repository**
-- terraform-aws-platform
-
----
-
-# 🎯 Current Focus
-
-Currently expanding expertise in:
-
-- Advanced Kubernetes Operations
-- Platform Engineering
 - Internal Developer Platforms (IDP)
-- Backstage
-- GitHub Actions
-- Cloud Automation
-- AI Infrastructure Operations
-- SRE Best Practices
-
----
-
-# 🚀 Upcoming Projects
-
-- GitHub Actions CI/CD Platform
-- SRE Runbooks Collection
-- AWS EKS Platform
-- Incident Response Automation
 - Backstage Developer Portal
-- Golden Paths for Developers
-- Kubernetes Monitoring Stack
+- Self-Service Infrastructure
+- Golden Paths
+- Developer Experience (DevEx)
+
+### SRE Practices
+- Incident Management
+- Root Cause Analysis (RCA)
+- Service Level Objectives (SLOs)
+- Service Level Indicators (SLIs)
+- Reliability Engineering
 
 ---
 
-## 📈 What I'm Working On
+## 📂 Featured Projects
 
-- Building hands-on Platform Engineering projects
-- Creating production-style Kubernetes environments
-- Automating infrastructure deployments
-- Improving observability and monitoring solutions
-- Developing SRE portfolio projects
+### 🔭 Observability Platform
+End-to-end monitoring stack using Prometheus, Grafana, AlertManager, and Kubernetes.
+
+Repository:
+👉 https://github.com/GauravAnand90/observability-platform
+
+### ☁️ Terraform AWS Platform
+Production-style AWS infrastructure provisioning using Terraform modules and best practices.
+
+Repository:
+👉 https://github.com/GauravAnand90/terraform-aws-platform
+
+### ☸️ Kubernetes Platform
+Reusable Kubernetes platform with Helm charts, ingress, autoscaling, and operational best practices.
+
+Repository:
+👉 https://github.com/GauravAnand90/kubernetes-platform
+
+### 🚀 GitOps Platform
+GitOps-driven deployment workflows using ArgoCD and Kubernetes.
+
+Repository:
+👉 https://github.com/GauravAnand90/gitops-platform
+
+### 🤖 AIOps Platform
+AI-assisted operations, observability, and automation concepts for modern SRE teams.
+
+Repository:
+👉 https://github.com/GauravAnand90/aiops-platform
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Learning
 
-### LinkedIn
-www.linkedin.com/in/gaurav-anand-92767312a/
-
-### GitHub
-github.com/GauravAnand90
+- AI for Platform Engineering
+- AIOps & MLOps
+- Crossplane
+- Kubernetes Operators
+- Advanced Platform Engineering Patterns
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+## 📜 Certifications
+
+- AWS Cloud Certifications
+- Kubernetes Certifications
+- Terraform & DevOps Learning Paths
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/GauravAnand90
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravAnand90&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravAnand90&layout=compact&theme=tokyonight)
+
+---
+
+### 💡 Engineering Philosophy
+
+> Automate everything possible, measure everything important, and build platforms that enable developers to move faster safely.
