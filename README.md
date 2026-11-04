@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Anand 👋
 
-## 🚀 SRE | Platform Engineer | DevOps Engineer
+## 🚀 Senior SRE | Platform Engineer | DevOps Engineer
 
 Experienced Site Reliability and Platform Engineer with 5+ years of experience designing, automating, and operating cloud-native infrastructure on AWS and Kubernetes. Passionate about Infrastructure as Code, GitOps, Internal Developer Platforms (IDP), Observability, and AI-powered Operations.
 
