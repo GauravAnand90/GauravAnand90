@@ -1,8 +1,8 @@
 # Hi, I'm Gaurav Anand 👋
 
-## 🚀 Senior SRE | Platform Engineer | DevOps Engineer
+## 🚀 SRE | Platform Engineer | DevOps Engineer
 
-Experienced Site Reliability and Platform Engineer with 5+ years of experience designing, automating, and operating cloud-native infrastructure on AWS and Kubernetes. Passionate about Infrastructure as Code, GitOps, Internal Developer Platforms (IDP), Observability, and AI-powered Operations.
+Experienced Site Reliability and Platform Engineer with 5+ years of experience designing, automating, and operating cloud-native infrastructure on AWS and Kubernetes. Passionate about Infrastructure as Code, GitOps, IDP, Observability, and AI-powered Operations.
 
 ---
 
@@ -102,14 +102,6 @@ Repository:
 
 - LinkedIn: https://linkedin.com/in/your-linkedin-profile
 - GitHub: https://github.com/GauravAnand90
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravAnand90&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravAnand90&layout=compact&theme=tokyonight)
 
 ---
 
